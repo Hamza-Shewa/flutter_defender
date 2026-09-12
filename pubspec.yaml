@@ -6,7 +6,7 @@ repository: https://github.com/aleemElmozogi/flutter_defender
 license: Apache-2.0
 
 environment:
-  sdk: ">=3.10.1 <4.0.0"
+  sdk: ">=3.10.0 <4.0.0"
   flutter: '>=3.35.0'
 
 dependencies:
